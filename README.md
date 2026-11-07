@@ -68,10 +68,10 @@ Estudos sobre Kotlin, uma linguagem moderna, concisa e segura, muito usada no de
 ## 📈 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=annahigaf&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annahigaf&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
+  <img src="https://img.shields.io/github/followers/annahigaf?style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores"/>
+  <img src="https://img.shields.io/github/last-commit/annahigaf/projeto-mobile-final?style=for-the-badge&logo=git&label=Último%20commit" alt="Último commit"/>
+  <img src="https://img.shields.io/github/languages/top/annahigaf/projeto-mobile-final?style=for-the-badge&label=Linguagem%20principal" alt="Linguagem principal"/>
 </p>
-
 ---
 
 ## 📫 Vamos conversar?
